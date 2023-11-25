@@ -1,0 +1,16 @@
+Informacoes sobre as transacoes (http://comexstat.mdic.gov.br/pt/geral)
+Replit com o codigo (https://replit.com/join/bkkqqibobn-arturvalladares) 
+
+NovosDados de Transações: https://tradingeconomics.com/china/exports-by-country
+https://tradingeconomics.com/china/imports-by-country
+https://santandertrade.com/pt/portal/analise-os-mercados/estados-unidos/valores-do-comercio-2#classification_by_country
+
+
+Novo replit: https://replit.com/@ArturValladares/P2Grafos#main.cpp
+https://replit.com/join/bkkqqibobn-arturvalladares
+
+Video do youtube: https://youtu.be/Y3PhLqIZ36o
+
+
+
+Github: https://github.com/arturstaation/GrafoComercioExterior
